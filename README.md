@@ -15,6 +15,13 @@ The aim of this competition is to use the 'jellybean' problem to explore Ethereu
 * Winners are revealed at the end date and winnings distributed
 * If there multiple winners, the pot is divided amongst them equally. 
 * If there are no winners, the pot goes to the developers.
+* A jackpot winner is determined by a winner guessing the exact number
+* A winner is determined by the closest guess (without going over?) if there is no Jackpot winner.
 
+### Phase 1
 
+* Developers create the competition, no image upload
+* Simple bet cost setting
+* One address one bet
+* First bet after the end date triggers the end of the competition
 
